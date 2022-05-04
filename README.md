@@ -28,3 +28,5 @@
 <br>
     
 Sempre disposto a aprender mais e melhorar a cada dia.
+
+  ![Snake animation](https://github.com/MatheusMcod/MatheusMcod/blob/output/github-contribution-grid-snake.svg)
