@@ -25,6 +25,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
   <img align="center" alt="Js" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
   <img align="right" alt="pic" height="135" style="border-radius:50px;" src="https://animeshouse.net/wp-content/uploads/2022/02/Screenshot_4263-426x240.jpg">
+  <img align="center" alt="Js" height="30" width="40" src="<img align="center" alt="Js" height="30" width="40" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png">">
 </div>
 <br>
 <br>
