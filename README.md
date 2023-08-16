@@ -15,7 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMcod&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias que uso
+## Principais Tecnologias que Utilizo!
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +23,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   <img align="center" alt="nodeJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png">
+  <img align="center" alt="VueJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png">
+  
   <img align="right" alt="pic" height="135" style="border-radius:50px;" src="https://animeshouse.net/wp-content/uploads/2022/02/Screenshot_4263-426x240.jpg">
 </div>
 <br>
