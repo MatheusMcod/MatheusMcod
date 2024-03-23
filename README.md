@@ -25,7 +25,7 @@
   <img align="center" alt="NodeJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png">
   <img align="center" alt="VueJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png">
   
-  <img align="right" alt="pic" height="135" style="border-radius:50px;" src="[https://animeshouse.net/wp-content/uploads/2022/02/Screenshot_4263-426x240.jpg](https://is1-ssl.mzstatic.com/image/thumb/ot7U6Xv2ghCU6q1WkDOs6g/1200x675.jpg)">
+  <img align="right" alt="pic" height="135" style="border-radius:50px;" src="https://is1-ssl.mzstatic.com/image/thumb/ot7U6Xv2ghCU6q1WkDOs6g/658x371.webp">
 </div>
 <br>
 <br>
