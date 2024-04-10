@@ -21,9 +21,13 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://avatars.githubusercontent.com/u/67109815?v=4&s=400">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png">
   <img align="center" alt="VueJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png">
+  <img align="center" alt="ReactJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
+  <img align="center" alt="Django" height="30" width="40" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png">
+  <img align="center" alt="FastApi" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
+  
   
   <img align="right" alt="pic" height="135" style="border-radius:50px;" src="https://is1-ssl.mzstatic.com/image/thumb/ot7U6Xv2ghCU6q1WkDOs6g/658x371.webp">
 </div>
